@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GiftShop-updated/static/css/main.18db562d.css",
+    "main.js": "/GiftShop-updated/static/js/main.abacd4fe.js",
+    "static/js/787.762967d2.chunk.js": "/GiftShop-updated/static/js/787.762967d2.chunk.js",
+    "index.html": "/GiftShop-updated/index.html",
+    "main.18db562d.css.map": "/GiftShop-updated/static/css/main.18db562d.css.map",
+    "main.abacd4fe.js.map": "/GiftShop-updated/static/js/main.abacd4fe.js.map",
+    "787.762967d2.chunk.js.map": "/GiftShop-updated/static/js/787.762967d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18db562d.css",
+    "static/js/main.abacd4fe.js"
+  ]
+}
